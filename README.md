@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Activity gif"/>
+</p>
+
 # Programming Fundamental - Activity
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
