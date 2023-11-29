@@ -12,7 +12,7 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 - [Activity 4 isPrime()](activity-4)
 - [Activity 5 Pointer](activity-5)
 - [Activity 6 Pass by Reference](activity-6)
-- [Activity 7 TextFile Or BinaryFile](activity-7)
+- [Activity 7 TextFile / BinaryFile](activity-7)
   
 ## Learning Resources
 - https://programming.in.th/
