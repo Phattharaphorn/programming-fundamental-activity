@@ -1,7 +1,7 @@
 # Programming Fundamental - Activity
 Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
-- This repository is a collection of programs designed to be both an efficient tool for array data management and the flexibility of C++, including the use of advanced concepts of this language to solve problems and process complex data.
+- This repository is a collection of programs designed to be both an **efficient** **tool** for **array** **data** **management** and **the** **flexibility** **of** **C++**, including the use of advanced concepts of this language to solve problems and process complex data.
 
 
   > **Note:** This collection of various programs in class about object-oriented programming is implemented in C++ for practical purposes.
