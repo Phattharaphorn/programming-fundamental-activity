@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Activity gif"/>
+ <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" alt="Activity gif"/>
 </p>
 
 # Programming Fundamental - Activity
@@ -10,7 +10,7 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
   > **Note:** This collection of various programs in class about object-oriented programming is implemented in C++ for practical purposes.
 
-## List all activity in class  
+## List all the activity 
 - [Activity 1 Pseudo Code](activity-1)
 - [Activity 2 Array function](activity-2)
 - [Activity 3 Testing and Debugging](activity-3)
