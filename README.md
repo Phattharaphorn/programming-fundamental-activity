@@ -10,7 +10,7 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
   > **Note:** This collection of various programs in class about object-oriented programming is implemented in C++ for practical purposes.
 
-## List all activity in class  ใ
+## List all activity in class  
 - [Activity 1 Pseudo Code](activity-1)
 - [Activity 2 Array function](activity-2)
 - [Activity 3 Testing and Debugging](activity-3)
