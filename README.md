@@ -12,7 +12,7 @@ Programming Fundamental (01076103), Computer Engineering 60 at KMITL.
 
 ## List all the activity 
 - [Activity 1 Pseudo Code](activity-1)
-- [Activity 2 Array function](activity-2)
+- [Activity 2 Array function](activity-2) 
 - [Activity 3 Testing and Debugging](activity-3)
 - [Activity 4 isPrime()](activity-4)
 - [Activity 5 Pointer](activity-5)
